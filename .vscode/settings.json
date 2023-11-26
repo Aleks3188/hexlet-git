@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.enableFileLinks": "off"
+}
+{
+"terminal.integrated.env.linux": 
+    "LD_PRELOAD": null,
+},
